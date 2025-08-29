@@ -1,21 +1,21 @@
 <h1 align="center">Hi there👋, I'm Enoch Okine Mensah</h1>
-<h1 align="center">Frontend Software Engineer💻 | UI/UX Designer🎨 | AWS Cloud Practitioner☁️⚙️ | Music Producer🎹 </h1>
+<h1 align="center">Frontend Software Engineer💻 | UI/UX Designer🎨 | AWS Cloud Practitioner☁️⚙️ | Music Producer🎹</h1>
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1siDxa-0u18NMlFL8HCo3ZKTH7qe2d1EU" alt="Banner Image" width="300">
 </p>
 
 
-## About Me 🚀
+## 🧑‍💻♈🎶About Me
 
-I'm a passionate **[Frontend Software Engineer]** who thrives at the intersection of design and development. I specialize in crafting accessible, pixel-perfect user interfaces that blend thoughtful design with robust engineering-always with performance and usability in mind. 
+I'm a passionate **Frontend Software Engineer** who thrives at the intersection of design and development. I specialize in crafting accessible, pixel-perfect user interfaces that blend thoughtful design with robust engineering-always with performance and usability in mind. 
 
-- 🌱 Currently learning: **[Prompt Engineering in SE]**
-- 🔭 Working on: **[Airbnb-clone Project @ALX]**
-- 📫 How to reach me: **[okaycode100@gmail.com]**
-- ⚡ Fun fact: **[At my core, I'm a joy-giver, a problem-solver, and a lifelong learner, excited to keep building with people and for people. I enjoy making music at free designated times as well as playing games.]**
+- 🌱 Currently learning: **Prompt Engineering in SE**
+- 🔭 Working on: **Airbnb-clone Project @ALX**
+- 📫 How to reach me: **okaycode100@gmail.com**
+- ⚡ Fun fact: **At my core, I'm a joy-giver, a problem-solver, and a lifelong learner, excited to keep building with people and for people. I enjoy making music at free designated times as well as playing games.**
 
-## My Skills 🧠
+## 🛠️💻My Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,7 +37,7 @@ I'm a passionate **[Frontend Software Engineer]** who thrives at the intersectio
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
-## My Github Stats
+## 📈📊My Github Stats
 <p align="center">
   <a href="https://github.com/CodeOK100/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=CodeOK100&show_icons=true&theme=merko" />
@@ -50,10 +50,15 @@ I'm a passionate **[Frontend Software Engineer]** who thrives at the intersectio
   </a>
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img height="200" src="https://streak-stats.demolab.com?user=CodeOK100&theme=merko&hide_border=true" />
+  </a>
+</p>
 
 
 
-## Let's Connect 🙂📬🌐
+## 🙂📬🌐Let's Connect 
 
 - **Personal Website / Blog:**( https://sites.google.com/view/enochscode/home)
 - **LinkedIn**( www.linkedin.com/in/enoch-okine-mensah-6254a330a)
